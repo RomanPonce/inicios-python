@@ -4,7 +4,7 @@ print("Ha empezado un apocalipsis zombi")
 
 lugar = input("Donde se encuentra usted?: ").upper()
 arma = input("Que objeto de su alerededor puede utilizar para defenderse: ").upper()
-compañero = input("Quien lo acompaña?: ").upper()
+compañero = input("Quien lo acompaña?: ").upper()a = input
 
 #Historia
 
